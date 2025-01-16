@@ -5,7 +5,7 @@ function VisualImage() {
   return (
     <div className="visdiv">
       <img src={Eye} alt="eye" />
-      <h className="Visualtxt">VIsual</h>
+      <h className="Visualtxt">Visual</h>
     </div>
   );
 }
