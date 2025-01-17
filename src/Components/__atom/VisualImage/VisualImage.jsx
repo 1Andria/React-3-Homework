@@ -1,4 +1,5 @@
 import React from "react";
+import "./VisualAdd.css";
 import Eye from "../../../assets/Images/eye.svg";
 function VisualImage() {
   return (
